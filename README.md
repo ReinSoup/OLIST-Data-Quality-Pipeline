@@ -93,6 +93,26 @@ The raw files are kept unchanged.
 
 The project is being developed progressively, with each stage of the data-cleaning workflow documented and validated.
 
+Inspecting raw datasets using a "Two level inspection process"
+1. inspect the entire dataset at a high level
+2. inspect each csv individually 
+
+PHASE 1
+Global inspection
+        ↓
+Understand all tables
+        ↓
+PHASE 2
+Detailed quality assessment
+        ↓
+Identify and document problems
+        ↓
+PHASE 3
+Cleaning
+        ↓
+PHASE 4
+Validation
+
 ## Author
 
 ABDUL RAB (Ryan)
